@@ -1,0 +1,2 @@
+# -TCoinClickerBot
+token T
